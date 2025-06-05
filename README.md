@@ -1,7 +1,15 @@
 <p align="center">
   <img src="https://i.postimg.cc/t4VwKg9H/nirapcsentada-removebg-preview.png" title="Nira Fofa" />
-  ## 📊 GitHub Stats
-![Mariane Ramalho Belini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirabott&show_icons=true&theme=tokyonight&hide=prs,issues&count_private=true)
+# Olá! 👋
+
+Seja bem-vindo(a) ao meu perfil no GitHub! Aqui você pode ver algumas estatísticas e linguagens que mais utilizo nos meus projetos.
+
+## 📊 GitHub Stats
+![nirabott's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirabott&show_icons=true&theme=tokyonight&hide=prs,issues&count_private=true)
+
+## 🧠 Linguagens Mais Usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nirabott&layout=compact&theme=tokyonight)
+
 
 </p>
   <h1 align="center">Um bot de entretenimento para o Discord</h1>
