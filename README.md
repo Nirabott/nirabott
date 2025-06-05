@@ -1,5 +1,8 @@
 <p align="center">
   <img src="https://i.postimg.cc/t4VwKg9H/nirapcsentada-removebg-preview.png" title="Nira Fofa" />
+  ## 📊 GitHub Stats
+![Mariane Ramalho Belini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirabott&show_icons=true&theme=tokyonight&hide=prs,issues&count_private=true)
+
 </p>
   <h1 align="center">Um bot de entretenimento para o Discord</h1>
   <p align="center">
