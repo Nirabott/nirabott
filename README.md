@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://i.postimg.cc/t4VwKg9H/nirapcsentada-removebg-preview.png" title="Nira Fofa" />
 
-  <h1 align="center">Um bot de entretenimento para o Discord</h1>
+  <h1 align="center">Um bot de entretenimento e moderação para o Discord</h1>
 
   <p align="center">
  <a href="https://www.instagram.com/nirabott/?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D#"><img src="https://i.postimg.cc/qM2cFmRQ/8726142-instagram-icon.png" height="50" /></a>
